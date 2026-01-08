@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+}
+.bg-amazon-navy {
+    background-color: #000000;
+}
+.amazon-gradient {
+    background: linear-gradient(135deg, #000000 0%, #0a0a0a 100%);
+}
+.orange-gradient {
+    background: linear-gradient(135deg, #ff9900 0%, #ff6600 100%);
+}
+.glass-card {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.neon-border {
+    box-shadow: 0 0 15px rgba(255, 153, 0, 0.3);
+}

@@ -1,0 +1,7 @@
+{
+  "name": "AmazonSeekho - Master Amazon Selling for ₹99",
+  "description": "The ultimate masterclass to start your Amazon Selling journey for just ₹99. Learn product research, sourcing, and scaling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
